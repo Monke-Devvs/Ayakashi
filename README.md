@@ -33,3 +33,6 @@
 
 > JSON File: `versions/Ayakashi/Ayakashi.json`
 ---
+
+### For people who want to take down repo
+> Aakashi is based on [Niko](https://github.com/narumii/Niko) which using `GPL V3` license which have `Disclose source` condition
