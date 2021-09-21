@@ -1,8 +1,3 @@
-## For people who want to take down repo
-### Aakashi is based on [Niko](https://github.com/narumii/Niko) which using `GPL V3` license which have `Disclose source` condition
- 
----
-
 ###  Credits: `Ramzei#0944`
 
 ---
@@ -38,3 +33,9 @@
 
 > JSON File: `versions/Ayakashi/Ayakashi.json`
 ---
+
+### For people who want to take down repo
+> Aakashi is based on [Niko](https://github.com/narumii/Niko) which using `GPL V3` license which have `Disclose source` condition
+> Also i'm not author of ayakashi /shrug
+> XD
+
